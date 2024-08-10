@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Defender
+comment0.text=\r\n\ Subclass\ of\ AttackAnimationActor\ that\ is\ a\ defender.\ Defenders,\ like\ attackers,\ have\ specific\ logic\ to\ \r\n\ their\ animation\ since\ they\ always\ strike\ after\ the\ attacker.\ Therefore\ their\ animate()\ method\ is\ \r\n\ exclusive\ to\ them\ and\ not\ all\ AttackAnimationActor's.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=me\ other
+comment1.target=Defender(BattleWorldCharacter,\ BattleWorldCharacter)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

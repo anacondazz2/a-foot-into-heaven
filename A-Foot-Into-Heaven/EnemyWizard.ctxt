@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyWizard
+comment0.text=\r\n\ The\ enemy\ wizard\ class.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=isBoss
+comment1.target=EnemyWizard(boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HoverWindow
+comment0.text=\r\n\ When\ you\ hover\ over\ an\ ally\ or\ enemy,\ show\ basic\ important\ stats.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=bwc
+comment1.target=HoverWindow(BattleWorldCharacter)
+numComments=2

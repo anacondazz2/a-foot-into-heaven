@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NonAttackInterface
+comment0.text=\r\n\ Interfaces\ that\ do\ not\ involve\ preparing\ for\ attacking.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a
+comment1.target=NonAttackInterface(Ally)
+numComments=2

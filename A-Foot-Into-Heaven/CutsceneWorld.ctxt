@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CutsceneWorld
+comment0.text=\r\n\ The\ beginning\ cutscene.\r\n\ \r\n\ @author\ Jonathan\ Zhao\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=CutsceneWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateCutscene()
+comment4.params=
+comment4.target=void\ checkDialogueFinished()
+numComments=5

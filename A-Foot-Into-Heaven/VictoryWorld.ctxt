@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=VictoryWorld
+comment0.text=\r\n\ The\ victory\ world.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=VictoryWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fadeIn()
+comment4.params=
+comment4.target=void\ checkHovering()
+comment5.params=
+comment5.target=void\ checkClick()
+numComments=6

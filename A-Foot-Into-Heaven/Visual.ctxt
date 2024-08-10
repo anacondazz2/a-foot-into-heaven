@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Visual
+comment0.text=\r\n\ The\ details\ and\ controls\ images.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path\ returnWorld
+comment1.target=Visual(java.lang.String,\ GameWorld)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

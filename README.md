@@ -11,8 +11,8 @@ Original repo @ https://github.com/340802040/HolyInsurrectionAFootIntoHeaven
 Made by Jonathan Zhao, Patrick Hu.
 
 ## How to Run
-1. Download [Greenfoot](https://www.greenfoot.org/download).
+1. Download [Greenfoot](https://www.greenfoot.org/download) and Java.
 
-2. Download and run the .gfar file.  
+2. Run project.greenfoot  
 
 Enjoy playing.

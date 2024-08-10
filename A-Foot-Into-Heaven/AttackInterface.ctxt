@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AttackInterface
+comment0.text=\r\n\ Interface\ that\ deals\ with\ when\ you\ have\ the\ option\ to\ attack.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a\ e
+comment1.target=AttackInterface(Ally,\ Enemy)
+numComments=2

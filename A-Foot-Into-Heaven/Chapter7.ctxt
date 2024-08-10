@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Chapter7
+comment0.text=\r\n\ Chapter\ 7\ world.\ The\ Castle.\r\n\ \r\n\ @author\ Jonathan\ Zhao,\ Patrick\ Hu\ \r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Chapter7()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ setupStats()
+numComments=5

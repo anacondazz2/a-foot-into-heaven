@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Card\ is\ an\ introduction\ or\ visual\ that\ covers\ most\ of\ the\ screen\ and\r\n\ notifies\ the\ player\ of\ a\ change\ in\ the\ game\ state\ or\ setting.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path
+comment1.target=Card(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ card\ of\ an\ image.\r\n
+comment2.params=path\ mod
+comment2.target=Card(java.lang.String,\ int)
+comment3.params=ti
+comment3.target=Card(TextImage)
+comment3.text=\r\n\ Creates\ a\ card\ of\ just\ text.\r\n
+comment4.params=ti\ mod
+comment4.target=Card(TextImage,\ int)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ fadeIn()
+comment7.params=
+comment7.target=void\ fadeOut()
+numComments=8

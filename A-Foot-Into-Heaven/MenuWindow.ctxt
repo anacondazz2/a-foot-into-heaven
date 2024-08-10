@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MenuWindow
+comment0.text=\r\n\ Menu\ window\ is\ only\ available\ in\ BattleWorld.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=returnState
+comment1.target=MenuWindow(java.lang.String)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkHovering()
+comment5.params=
+comment5.target=void\ checkClick()
+comment6.params=
+comment6.target=void\ checkGoBack()
+comment7.params=
+comment7.target=void\ removeSelf()
+numComments=8

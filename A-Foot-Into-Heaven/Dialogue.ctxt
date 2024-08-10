@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dialogue
+comment0.text=\r\n\ Class\ that\ handles\ all\ dialogue\ by\ taking\ in\ the\ path\ to\ the\ files\ and\ adding\ them\ to\ the\ world.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path\ returnState
+comment1.target=Dialogue(java.lang.String,\ java.lang.String)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ displayDialogues()
+numComments=5

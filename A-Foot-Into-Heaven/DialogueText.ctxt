@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DialogueText
+comment0.text=\r\n\ Dialogue\ text\ image.\ Separate\ class\ needed\ to\ specify\ the\ paint\ order\ of\ dialogue\ text\ images\ which\r\n\ should\ be\ ontop\ of\ everything\ else\ in\ the\ world.\ Relevant\ for\ the\ text\ when\ Prodeus\ or\ the\ The\ Being\ is\ killed\r\n\ as\ their\ dialogue\ must\ be\ on\ top\ of\ the\ health\ bars\ and\ other\ graphics\ in\ the\ AttackAnimationWorld.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path
+comment1.target=DialogueText(java.lang.String)
+numComments=2

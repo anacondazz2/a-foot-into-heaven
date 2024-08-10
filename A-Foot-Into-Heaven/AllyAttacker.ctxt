@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AllyAttacker
+comment0.text=\r\n\ Subclass\ of\ Attacker's\ that\ are\ allies.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=me\ other
+comment1.target=AllyAttacker(BattleWorldCharacter,\ BattleWorldCharacter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkDeath()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

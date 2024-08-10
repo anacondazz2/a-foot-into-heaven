@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=NonAttackDecisionWindow
+comment0.text=\r\n\ The\ window\ when\ you\ do\ not\ move\ onto\ an\ enemy.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a
+comment1.target=NonAttackDecisionWindow(Ally)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkUserInput()
+comment4.params=
+comment4.target=void\ checkGoBack()
+numComments=5

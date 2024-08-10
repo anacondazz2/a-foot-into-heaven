@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BattlePhaseCard
+comment0.text=\r\n\ Image\ that\ displays\ the\ current\ battle\ phase,\ either\ player\ or\ enemy.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path
+comment1.target=BattlePhaseCard(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fadeOut()
+numComments=4

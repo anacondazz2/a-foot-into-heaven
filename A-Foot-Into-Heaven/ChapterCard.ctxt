@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChapterCard
+comment0.text=\r\n\ Shows\ which\ chapter\ it\ is.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path
+comment1.target=ChapterCard(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fadeOut()
+numComments=4

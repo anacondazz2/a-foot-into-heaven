@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeaponSelectWindow
+comment0.text=\r\n\ The\ Weapon\ selection\ window.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a\ e
+comment1.target=WeaponSelectWindow(Ally,\ Enemy)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ setup()
+comment5.params=
+comment5.target=void\ addWeaponIcons()
+comment6.params=
+comment6.target=void\ checkUserInput()
+comment7.params=
+comment7.target=void\ changeWorlds()
+comment8.params=
+comment8.target=void\ checkGoBack()
+comment9.params=
+comment9.target=void\ removeWeaponIcons()
+numComments=10

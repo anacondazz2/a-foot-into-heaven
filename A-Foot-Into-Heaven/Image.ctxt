@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Image
+comment0.text=\r\n\ A\ class\ simply\ to\ show\ an\ image.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Image()
+comment2.params=path
+comment2.target=Image(java.lang.String)
+comment3.params=ti
+comment3.target=Image(TextImage)
+comment4.params=
+comment4.target=void\ removeSelf()
+numComments=5

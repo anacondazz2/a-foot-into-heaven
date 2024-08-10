@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AttackDecisionWindow
+comment0.text=\r\n\ Window\ that\ asks\ whether\ you\ want\ to\ attack\ the\ enemy\ or\ to\ wait.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a\ e
+comment1.target=AttackDecisionWindow(Ally,\ Enemy)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkUserInput()
+comment4.params=
+comment4.target=void\ checkGoBack()
+numComments=5

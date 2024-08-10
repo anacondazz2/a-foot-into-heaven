@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartSwordShineEffect
+comment0.text=\r\n\ Shine\ of\ sword\ that\ brings\ you\ into\ game.\r\n\ \r\n\ @author\ Jonathan\ Zhao\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=StartSwordShineEffect()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animateShine()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MightWindow
+comment0.text=\r\n\ Shows\ the\ amount\ of\ damage\ you\ will\ do\ before\ you\ do\ it\ to\ help\ you\ make\ wiser\ choices.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=a\ e
+comment1.target=MightWindow(Ally,\ Enemy)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

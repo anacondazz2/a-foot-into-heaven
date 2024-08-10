@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StatWindow
+comment0.text=\r\n\ A\ window\ with\ informational\ text\ such\ as\ stats\ that\ provide\ the\ user\ with\ an\r\n\ option\ to\ go\ back.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=bwc\ returnState
+comment1.target=StatWindow(BattleWorldCharacter,\ java.lang.String)
+comment2.params=s\ font\ textColor\ bgColor\ trans\ returnState
+comment2.target=StatWindow(java.lang.String,\ greenfoot.Font,\ greenfoot.Color,\ greenfoot.Color,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkGoBack()
+numComments=5

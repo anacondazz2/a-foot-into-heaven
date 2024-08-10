@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ initial\ menu\ that\ at\ the\ beginning\ of\ the\ game.\r\n\ \r\n\ @author\ Jonathan\ Zhao\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkHovering()
+comment4.params=
+comment4.target=void\ checkClick()
+comment5.params=
+comment5.target=void\ resetSaves()
+comment5.text=\r\n\ Rewrites\ the\ most\ recent\ chapter\ achieved/visited.\ Done\ at\ the\ start\ of\ the\ program\ since\r\n\ the\ static\ array\ of\ allies\ is\ likely\ wiped\ from\ closing\ the\ previous\ session,\ thus\ loading\ should\ not\r\n\ send\ the\ player\ into\ a\ high\ chapter\ with\ an\ empty\ army.\ Instead\ their\ most\ recent\ chapter\ gets\ reset\ to\ 1.\r\n
+comment6.params=
+comment6.target=void\ animateTitleScreen()
+numComments=7

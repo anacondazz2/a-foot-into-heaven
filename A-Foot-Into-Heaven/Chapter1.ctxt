@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Chapter1
+comment0.text=\r\n\ The\ first\ chapter.\ It\ is\ the\ tutorial\ world.\ Closterium.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Chapter1()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ setupStats()
+comment5.params=
+comment5.target=void\ checkClear()
+numComments=6
