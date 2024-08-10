@@ -2,12 +2,13 @@
 Fire Emblem Inspired strategy turn-based RPG made using Greenfoot (Java Framework).
 
 Key Features:
-- Extensive use of object oriented programming to represent Ally, Enemy, and Weapon parent classes with their more specific types and varities as subclasses.
-- Original art, story and music by Jonathan Zhao.
-- Player leveling system.
-- Animations!
+- Rich storyline
+- Multiple playable characters with unique sets of weapons and attacks
+- Grid-based movement
+- Player leveling and power system.
 
 Original repo @ https://github.com/340802040/HolyInsurrectionAFootIntoHeaven  
+Original art, animations, story and music by Jonathan Zhao.
 Made by Jonathan Zhao, Patrick Hu.
 
 ## How to Run
