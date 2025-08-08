@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Images
+comment0.text=\r\n\ Class\ used\ to\ store\ frames\ for\ the\ attack\ animation\ in\ a\ hashmap\ so\ as\ to\ not\ constantly\r\n\ create\ new\ GreenfootImages\ of\ the\ same\ frames.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path\ willCrit\ isAlly
+comment1.target=java.util.ArrayList\ getFrames(java.lang.String,\ boolean,\ boolean)
+comment2.params=
+comment2.target=void\ initMiscImgs()
+comment3.params=
+comment3.target=void\ initDmgImgs()
+comment4.params=
+comment4.target=void\ initCutsceneImgs()
+comment5.params=
+comment5.target=void\ initMainMenuImgs()
+numComments=6

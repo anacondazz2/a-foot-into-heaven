@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Attacker
+comment0.text=\n\ Subclass\ of\ AttackAnimationActor\ that\ is\ an\ attacker.\ All\ attackers\ have\ specific\ logic\ to\ their\ animation\ since\n\ they\ are\ the\ first\ ones\ to\ strike,\ therefore\ the\ animate()\ method\ belongs\ to\ this\ class.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ Jan\ 2023\n
+comment1.params=me\ other
+comment1.target=Attacker(BattleWorldCharacter,\ BattleWorldCharacter)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TextCard
+comment0.text=\r\n\ Card\ of\ just\ text.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=s\ font\ color\ bgColor\ mod
+comment1.target=TextCard(java.lang.String,\ greenfoot.Font,\ greenfoot.Color,\ greenfoot.Color,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=s
+comment3.target=void\ setText(java.lang.String)
+numComments=4

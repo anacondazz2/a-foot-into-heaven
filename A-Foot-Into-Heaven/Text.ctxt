@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Image\ of\ just\ text.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=s\ font\ color\ bgColor
+comment1.target=Text(java.lang.String,\ greenfoot.Font,\ greenfoot.Color,\ greenfoot.Color)
+comment2.params=s
+comment2.target=void\ setText(java.lang.String)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyAttacker
+comment0.text=\n\ Subclass\ of\ Attacker's\ that\ are\ enemies.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ Jan\ 2023\n
+comment1.params=me\ other
+comment1.target=EnemyAttacker(BattleWorldCharacter,\ BattleWorldCharacter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkDeath()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

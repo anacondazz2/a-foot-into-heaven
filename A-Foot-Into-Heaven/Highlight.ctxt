@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Highlight
+comment0.text=\r\n\ The\ blue\ highlight\ that\ shows\ movement\ possibilities.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=path
+comment1.target=Highlight(java.lang.String)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AllyCrusader
+comment0.text=\n\ Ally\ crusader\ class.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ Jan\ 2023\n
+comment1.params=name
+comment1.target=AllyCrusader(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
