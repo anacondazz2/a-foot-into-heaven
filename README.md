@@ -5,11 +5,11 @@ It takes great inspiration from "Fire Emblem", particularly the Game Boy Advance
 
 > beginning of the game
 
-![Demo](gif/begin.gif)
+![Demo](docs/gif/begin.gif)
 
 > the final boss fight, where "Blade of Eithalon" is attained
 
-![Demo](gif/prodeus.gif)
+![Demo](docs/gif/prodeus.gif)
 
 ## Features
 
@@ -21,7 +21,7 @@ Each class has unique weapons they can use and a specific amount of tiles they c
 The goal of the game is to defeat the enemies using strategy, such as the weapon triangles.  
 Much of this is explained in the "Details" tab.  
 
-![Alt text](img/details-tab.png) 
+![Alt text](docs/img/details-tab.png) 
 
 ### User Interface
 - menu can be accessed during the game through `esc`
@@ -40,9 +40,9 @@ These stats were used to calculate damage and crit chance.
 
 Attention was put into making each animation deliver impact, particularly the critical strikes.  
 
-![Demo](gif/fire.gif)  
+![Demo](docs/gif/fire.gif)  
 
-![Demo](gif/chapter6.gif)
+![Demo](docs/gif/chapter6.gif)
 
 ### The Music
 > an orginal soundtrack
@@ -50,7 +50,7 @@ Attention was put into making each animation deliver impact, particularly the cr
 Most of the songs listed are made by first starting with an AI generated sample, which was then heavily tuned and adjusted.  
 [Soundtracks](A-Foot-Into-Heaven/sounds/)  
 
-![Alt text](img/soundtracks.png)
+![Alt text](docs/img/soundtracks.png)
 
 > Lead Game Designer and Artist: Jonathan Zhao (no socials...)  
 > Credits to [Danpost](https://www.greenfoot.org/users/2991) for the TextImage class  
