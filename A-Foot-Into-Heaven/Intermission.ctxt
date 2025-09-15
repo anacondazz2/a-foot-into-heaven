@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Intermission
-comment0.text=\n\ Worlds\ with\ story\ and\ dialogue\ that\ occur\ after\ beating\ a\ chapter.\n\ \n\ @author\ Patrick\ Hu\n\ @version\ Jan\ 2023\n
-comment1.params=path\ dialoguePath\ chapterNumber
-comment1.target=Intermission(java.lang.String,\ java.lang.String,\ int)
-comment2.params=
-comment2.target=void\ act()
-numComments=3

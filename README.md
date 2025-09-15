@@ -3,40 +3,39 @@
 
 It takes great inspiration from "Fire Emblem", particularly the Game Boy Advance iterations.  
 
-> beginning of the game
+> Beginning of the game
 
 ![Demo](docs/gif/begin.gif)
 
-> the final boss fight, where "Blade of Eithalon" is attained
+> The final boss fight, where "Blade of Eithalon" is attained
 
 ![Demo](docs/gif/prodeus.gif)
 
 ## Features
 
 ### Weapon Triangle
-> the crux of any "Fire Emblem" title  
+> The crux of any "Fire Emblem" title  
 
-In the game, each character is of a specfic class.  
-Each class has unique weapons they can use and a specific amount of tiles they can move each turn.  
-The goal of the game is to defeat the enemies using strategy, such as the weapon triangles.  
-Much of this is explained in the "Details" tab.  
+In the game, each character is of a specfic class and each class has their own set of weapons.  
+Each weapon is both weak and strong against a certain other weapon, forming a weapon triangle:  
 
-![Alt text](docs/img/details-tab.png) 
+<img src="docs/img/details-tab.png" width="600">
 
 ### User Interface
-- menu can be accessed during the game through `esc`
-- menu provides Details and Controls page  
+- Menu can be accessed during the game through `esc`
+- Menu provides Details and Controls page  
+- `j` is used to cancel actions and serves as the "back" key
+- All controls are visually displayed as the game is played
 
 ### Additional
-- Pathfinding is used to implement character movement.
-- Inheritance was used to share common state and behaviour between the various characters.  
-- Units have 5 different stats (MaxHealth, ATK, DEF, EV, SPD).  
-These stats were used to calculate damage and crit chance. 
+- Pathfinding (bfs) is used to implement character movement
+- Inheritance was used to share common state and behaviour between the various game entities  
+- Units have 5 different stats (MaxHealth, ATK, DEF, EV, SPD) that were used to calculate damage and crit chance  
 
 ## Assets and Illustrations
 
 ### The Art
-> all hand-drawn  
+> All hand-drawn  
 
 Attention was put into making each animation deliver impact, particularly the critical strikes.  
 
@@ -45,14 +44,14 @@ Attention was put into making each animation deliver impact, particularly the cr
 ![Demo](docs/gif/chapter6.gif)
 
 ### The Music
-> an orginal soundtrack
+> An original soundtrack
 
 Most of the songs listed are made by first starting with an AI generated sample, which was then heavily tuned and adjusted.  
 [Soundtracks](A-Foot-Into-Heaven/sounds/)  
 
-![Alt text](docs/img/soundtracks.png)
+<img src="docs/img/soundtracks.png" width="600">
 
-> Lead Game Designer and Artist: Jonathan Zhao (no socials...)  
-> Credits to [Danpost](https://www.greenfoot.org/users/2991) for the TextImage class  
-> Game runs on "Greenfoot" Java framework.  
-> Made for ICS4U (Computer Science) at Pierre Elliott Trudeau High School.
+## Closing
+- All art, story, and game concepts were made by Jonathan Zhao (no socials)  
+- Credits to [Danpost](https://www.greenfoot.org/users/2991) for the TextImage class  
+- Game runs on "Greenfoot" - a Java framework  

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=EnemyFootSoldier
-comment0.text=\n\ Enemy\ Foot\ Soldier\ class.\n\ \n\ @author\ Patrick\ Hu\ \n\ @version\ Jan\ 2023\n
-comment1.params=isBoss
-comment1.target=EnemyFootSoldier(boolean)
-comment2.params=
-comment2.target=void\ act()
-numComments=3
