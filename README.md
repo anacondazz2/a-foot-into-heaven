@@ -21,16 +21,15 @@ Each weapon is both weak and strong against a certain other weapon, forming a we
 
 <img src="docs/img/details-tab.png" width="600">
 
-### User Interface
-- Menu can be accessed during the game through `esc`
-- Menu provides Details and Controls page  
-- `j` is used to cancel actions and serves as the "back" key
-- All controls are visually displayed as the game is played
-
-### Additional
+### Implementation Details
 - Pathfinding (bfs) is used to implement character movement
 - Inheritance was used to share common state and behaviour between the various game entities  
-- Units have 5 different stats (MaxHealth, ATK, DEF, EV, SPD) that were used to calculate damage and crit chance  
+- Units have 5 different stats (MaxHealth, ATK, DEF, EV, SPD) that were used to calculate damage and crit chance
+
+### User Interface
+- Menu can be accessed during the game through `esc`
+- `j` is used to cancel actions and serves as the "back" key
+- All controls are visually displayed as the game is played
 
 ## Assets and Illustrations
 
